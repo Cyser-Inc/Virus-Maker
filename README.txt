@@ -11,8 +11,8 @@ cd vbug
 python vbug.py
 
 ### Social Media
-My Facebook ~> https://www.fb.com/100004136748473
-My Github   ~> https://github.com/Gameye98
+My Channel  ~> https://www.youtube.com/c/CyserInc
+My Github   ~> https://github.com/Cyser-Inc
 
 ### Team or Group
 AndroSec1337 Cyber Team        ~> https://mbasic.facebook.com/groups/260954221031092
